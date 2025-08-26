@@ -1,0 +1,42 @@
+[
+    {
+        "Student_ID": 1,
+        "Name": "Erik",
+        "ExamSubject": "English",
+        "Result": 72.3,
+        "ExamDate": "9/12/2020",
+        "Sex": "M"
+    },
+    {
+        "Student_ID": 2,
+        "Name": "Daniel",
+        "ExamSubject": "English",
+        "Result": 71,
+        "ExamDate": "9/12/2020",
+        "Sex": "M"
+    },
+    {
+        "Student_ID": 3,
+        "Name": "Michael",
+        "ExamSubject": "English",
+        "Result": 62,
+        "ExamDate": "9/12/2020",
+        "Sex": "M"
+    },
+    {
+        "Student_ID": 4,
+        "Name": "Sven",
+        "ExamSubject": "English",
+        "Result": 73,
+        "ExamDate": "9/12/2020",
+        "Sex": "M"
+    },
+    {
+        "Student_ID": 5,
+        "Name": "Jake",
+        "ExamSubject": "English",
+        "Result": 84.15,
+        "ExamDate": "9/12/2020",
+        "Sex": "M"
+    }
+]
